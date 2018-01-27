@@ -53,7 +53,7 @@
         android:layout_height="wrap_content"
         app:layout_constraintLeft_toLeftOf="@+id/date"
         app:layout_constraintTop_toTopOf="@+id/guideline"
-        tools:text="Rainy"/>
+        tools:text="Rainy" />
 
     <TextView
         android:id="@+id/high_temperature"
